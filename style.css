@@ -1,0 +1,66 @@
+html,body{
+    background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+    
+/*hr{
+    max-width: 95px;
+    border-width: 3px;
+    border-color: #F05F44;
+}*/
+
+
+.card{
+    /* font-size: 10vw; */
+    height: 390px;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-bottom:auto;
+    width: 410px;
+    background-color: rgba(0,0,0,0.5) !important;
+}
+.img{
+
+    width: 250px;
+    height: 350px;
+    object-fit:cover;
+}    
+
+.btn{
+    /* font-size: 5vw; */
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5%;
+    margin-left: 35%;
+}
+.btn-xl{
+    padding: 1rem 1rem;
+}
+
+.btn-primary{
+    background-color:#F05F44;
+    border-color:#F05F44;
+}
+.btn-primary{
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+}
+.d-flex{
+    color: aliceblue;
+    
+}
+a{
+    color: aliceblue;
+}
+strong{
+    /* font-size: 5vw; */
+    color: aliceblue;
+    padding-left: 5%;
+
+}
